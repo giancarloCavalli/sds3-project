@@ -13,7 +13,7 @@ import com.gcavalli.dsvendas.services.SellerService;
 
 @RestController
 @RequestMapping(value = "/sellers")
-public class SellerResource {
+public class SellerController {
 	
 	@Autowired
 	SellerService service;
