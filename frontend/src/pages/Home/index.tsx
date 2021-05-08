@@ -1,6 +1,5 @@
 import Footer from "components/Footer";
 import NavBar from "components/NavBar";
-import Dashboard from "pages/Dashboard";
 import { Link } from "react-router-dom";
 
 const Home = () => {

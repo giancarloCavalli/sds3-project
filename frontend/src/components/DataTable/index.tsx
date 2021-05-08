@@ -26,10 +26,6 @@ const DataTable = () => {
         setActualPage(index);
     }
 
-    type tableData = {
-
-    }
-
     return (
         <>
             <Pagination page={page} onPageChange={changePage} />
