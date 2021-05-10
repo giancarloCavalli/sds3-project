@@ -14,7 +14,7 @@ DS Vendas is a full stack application built during the 3rd edition of the DevSup
 - Dashboard page containing:
 - A donut chart
 - A bar chart
-- A sales table
+- A sales table with pagination
 
 ## Architecture
 ![conceptual_model](https://raw.githubusercontent.com/devsuperior/bds-assets/main/sds/sds3-mc.png)
