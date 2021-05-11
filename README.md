@@ -34,10 +34,10 @@ DS Vendas is a full stack application built during the 3rd edition of the DevSup
 - ReactJS
 - Apex Charts
 - Bootstrap
-## Implantação em produção
+## Production
 - Back end: Heroku
 - Front end web: Netlify
-- Banco de dados: PostgreSQL
+- Database: PostgreSQL
 
 # How to run the app
 
