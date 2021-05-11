@@ -42,9 +42,7 @@ DS Vendas is a full stack application built during the 3rd edition of the DevSup
 # How to run the app
 
 ## Back end
-Pré-requirements:
-Java 11,
-PostgreSQL
+Prerequisites: Java 11
 
 ```bash
 # clone repository
