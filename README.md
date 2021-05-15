@@ -7,7 +7,7 @@ https://gcavalli-sds3.netlify.app/
 The charts may take a minute to load for the 1st time because of heroku's free web hosting
 
 ## About the project
-DS Vendas is a full stack application built during the 3rd edition of the DevSuperior Week (#sds3), event promoted by [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+DS Vendas is a full stack application built during the 3rd edition of the DevSuperior Week (#sds3), event promoted by [DevSuperior](https://devsuperior.com.br "DevSuperior website").
 
 ## Features
 - Homepage
