@@ -34,7 +34,7 @@ DS Vendas is a full stack application built during the 3rd edition of the DevSup
 - ReactJS
 - Apex Charts
 - Bootstrap
-## Production
+## Build and Deploy
 - Back end: Heroku
 - Front end web: Netlify
 - Database: PostgreSQL
